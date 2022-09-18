@@ -1,6 +1,5 @@
 # CASE
- 
-![front](renders/front.png)
+
 
 For right-handed version you need to mirror the model.
 
