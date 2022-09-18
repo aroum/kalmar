@@ -1,1 +1,0 @@
-Aluminum boards are not reversible. This board will not work. DO NOT ORDER THIS BOARD UNLESS YOU WANT AN EXPENSIVE COASTER.

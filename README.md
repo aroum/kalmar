@@ -1,46 +1,36 @@
-# Cephalopoda
+# Kalmar
 
-A collection of low profile split ergonomic mechanical keyboards I have created using [Ergogen](https://github.com/mrzealot/ergogen).
+My [Architeuthis dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux) keyboard modification.
 
-## Sepia officinalis
-![Sepia officinalis](images/sepia_officinalis.png)
-AKA S. officinalis, S.O., "Cuttlefish"
+## Differences:
+* Power switch
+* Reset button
+* Solder jumper for ProMicro(no need to flip the controller)
+* Low profile case with magnets
+* Additional mounting holes for case
+  
 
-34 keys, aggresive pinky stagger with top row omitted.
 
-## Metasepia pfefferi
-![Metasepia pfefferi](images/metasepia_pfefferi.png)
-AKA M. pfefferi, M.P., "Flamboyant cuttlefish"
+![case_front](pics/case_front.png)
+![case_back](pics/case_back.png)
+![pcb](pics/pcb.png)
 
-26 keys, similar to the S. officinalis, but with top/bottom keys of pinky and inner columns omitted. 2 thumb keys.
+# BOM for keyboard
 
-## Dosidicus gigas
-![Dosidicus gigas](images/dosidicus_gigas.png)
-AKA D. gigas, D.G., "Jumbo squid"
+| Item                                                                   | Quantity | Remarks                              |
+| ---------------------------------------------------------------------- | -------: | ------------------------------------ |
+| [proMicro](https://aliexpress.ru/item/32840365436.html)                | 2        | or any other compatible controller   |
+| [Kailh Choc V1](https://aliexpress.ru/item/32959996455.html)           | 34       | switches                             |
+| [Keycaps](https://aliexpress.ru/item/33026798318.html)                 | 34       | 1U                                   |
+| [Magnets](https://aliexpress.ru/item/1005002757445161.html)            | 2-6      | disc 7x2 mm (for case)               |
+| [Sockets PH3.5](https://aliexpress.ru/item/32899635835.html)           | 12x2     | for controller                       |
+| [SMD button 3x4x2mm](https://aliexpress.ru/item/1005003812819985.html) | 2        | for reset                            |
+| [MSK-12C02](https://aliexpress.ru/item/1005001398386692.html)          | 2        | Power switch  (wireless only)        |
+| [301230](https://aliexpress.ru/item/32732458079.html)                  | 2        | Battery  (wireless only)             |
 
-32 keys, same pinky stagger as S. officinalis and M. pfefferi, but with all "alpha" keys included. Pinky, ring, index, and inner columns splayed at 15, 5, -5, -5 degrees from middle column.
+Interactive BOM is located ```/pcb/ibom/ibom.html```
+BOM for case is located ```/case/README.md```
 
-## Todarodes pacificus
-![Todarodes pacificus](images/todarodes_pacificus.png)
-AKA T. pacificus, T.P., "Japanese flying squid"
+# GERBER
 
-30 keys, 15, 5, 0, -5, -5 degree splay. My take on the Hummingbird layout.
-
-## Todarodes sagittatus
-![Todarodes sagittatus](images/todarodes_sagittatus.png)
-AKA T. sagittatus, T.S., "European flying squid"
-
-Same stagger as the T. pacificus, but no splay.
-
-## Idiosepius thailandicus
-![Idiosepius thailandicus](images/idiosepius_thailandicus.png)
-AKA I. thailandicus, I.T., "Pygmy bobtail squid"
-
-Designed with the ARTSEY layout in mind, but could also be used with ASTENIOP.
-BlueMicro compatible.
-
----
-
-Thank you [@o.bijmarie](https://instagram.com/o.bijmarie) for the photos of the Sepia officinalis, perce for logo help, and everyone on the Absolem club discord for their support.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z75C28V)
+GERBER can be downloaded in [releases](https://github.com/aroum/kalmar/releases).
