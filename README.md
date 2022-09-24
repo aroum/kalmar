@@ -9,8 +9,6 @@ My [Architeuthis dux](https://github.com/tapioki/cephalopoda/tree/main/Architeut
 * Low profile case with magnets
 * Additional mounting holes for case
   
-
-
 ![case_front](pics/case_front.png)
 ![case_back](pics/case_back.png)
 ![pcb](pics/pcb.png)
@@ -23,13 +21,13 @@ My [Architeuthis dux](https://github.com/tapioki/cephalopoda/tree/main/Architeut
 | [Kailh Choc V1](https://aliexpress.ru/item/32959996455.html)           | 34       | switches                             |
 | [Keycaps](https://aliexpress.ru/item/33026798318.html)                 | 34       | 1U                                   |
 | [Magnets](https://aliexpress.ru/item/1005002757445161.html)            | 2-6      | disc 7x2 mm (for case)               |
+| [Bumpers](https://aliexpress.ru/item/4001188580018.html)               | 18       | 5x2 mm (for case)                   |
 | [Sockets PH3.5](https://aliexpress.ru/item/32899635835.html)           | 12x2     | for controller                       |
 | [SMD button 3x4x2mm](https://aliexpress.ru/item/1005003812819985.html) | 2        | for reset                            |
 | [MSK-12C02](https://aliexpress.ru/item/1005001398386692.html)          | 2        | Power switch  (wireless only)        |
 | [301230](https://aliexpress.ru/item/32732458079.html)                  | 2        | Battery  (wireless only)             |
 
 Interactive BOM is located ```/pcb/ibom/ibom.html```
-BOM for case is located ```/case/README.md```
 
 # GERBER
 
