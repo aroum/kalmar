@@ -33,7 +33,7 @@ firmware/zmk
 */gerber/
 Devlog.md
 *-backups
-*.kicad_pro
-*.kicad_sch
+# *.kicad_pro
+# *.kicad_sch
 *.pro
 *.sch

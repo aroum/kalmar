@@ -1,0 +1,7 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"H1, H2, H3, H5",HOLE,4,Hole,
+J1,MJ-4PP-9_dual,1,MJ-4PP-9,
+RSW1,SW_3x4x2_2legs_x2,1,SW_PUSH,
+SW1,switch_MSK-12C02_smd_x2,1,SW_SPDT,
+"SWr1c1, SWr1c2, SWr1c3, SWr1c4, SWr1c5, SWr2c1, SWr2c2, SWr2c3, SWr2c4, SWr2c5, SWr3c1, SWr3c2, SWr3c3, SWr3c4, SWr3c5, SWr4c1, SWr4c2",ChocV1_duplex_hotswap_topor,17,SW_PUSH,
+U,ProMicro_duplex_clean,1,ProMicro_r,
