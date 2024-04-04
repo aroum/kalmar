@@ -17,4 +17,4 @@ The pcb is fixed by friction or double-sided tape.
 * Resolution: 0.05mm
 * Resin material: ABS-like
 
-STL models can be downloaded in [releases](https://github.com/aroum/PNCATEHO/releases).
+STL models can be downloaded in [releases](https://github.com/aroum/kalmar/releases).
